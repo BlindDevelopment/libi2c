@@ -2,6 +2,9 @@
 #include <unistd.h>
 #include <string.h>
 #include "i2c.h"
+#include <iostream>
+
+using namespace std;
 
 int main(int argc, char **argv)
 {
